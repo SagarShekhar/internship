@@ -1,0 +1,5 @@
+GitHub is a web-based hosting service for version control using Git. It is mostly used for storing and sharing computer source code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
+
+GitHub stores more than 3 million repositories with more than 1.7 million developers using it daily. With so much data, it can be quite daunting at first to find information one needs or do repetitive tasks, and that is when GitHub API comes handy.
+
+In this tutorial, you are going to learn how to use GitHub API to search for repositories and files that much particular keywords(s) and retrieve their URLs using Python. You will learn also how to download files or a specific folder from a GitHub repository.
